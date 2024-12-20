@@ -1,14 +1,6 @@
 title: Zaydi Networks
 date: 2024-12-20
 ---
-title: "Zaydi_Network"
-author: "Leone Pecorini Goodall"
-date: "2024-12-17"
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
 
 {r setup, include =FALSE}
 library(tidyverse)
@@ -28,7 +20,7 @@ How to use this document and the data tables
 
 I have opted to share this document in HTML format rather than a traditional PDF as otherwise I would have to share a substantial amount of excel spreadsheets etc, which would interrupt the flow of the analysis. Furthermore, it has the additional benefit of being easily updatable and public (a new version could simply replace this one via GitHub). I would be quite keen to get feedback also on your experience working and reading it in this format.One benefit of this approach is that it also provides a glimpse into the approach I have taken to data collection and organisation, however, I do recognise this may be confusing at first, therefore, a few aspects need to be addressed. Firstly, I have structured the data around generations (an approach previously adopted by Robinson and Urban), Generation 1 is ʿAlī b. Abī Ṭālib, Generation 2 are his sons, so on and so forth. Secondly, I have assigned individual IDs to each individual as this allows me to distinguish easily between the numerous repeating names in the text, it will suprise many of you to know that the ʿAlids were commonly named al-Huṣayn or al-Ḥasan. Thirdly, I have followed the text in viewing Umm Walads (child-bearing concubines) as distinct when they are included in separate clauses, I am not sure this reflects a historical reality or not, but given that al-ʿAqīqī does not group them together I have maintained his methodology. Having established my methodology it is appropriate to return to the source material.
 
-Yahyā b. al-Ḥasan al-ʿAqīqī (214-77/829-91)
+# Yahyā b. al-Ḥasan al-ʿAqīqī (214-77/829-91)
 
 A brief introduction of the author is necessary, al-ʿAqīqī was a descendant of the fourth Imami Imām, Alī Zayn al-ʿAbidīn – his full nasab is Yaḥyā b. al-Ḥasan b. Jaʿfar b. ʿUbayd Allāh b. al-Ḥusayn b. ʿAlī b. al-Ḥusayn b. ʿAlī b. Abī Ṭālib named al-ʿAqīqī because of being born near the wadī al-ʿAqīq in Medina. He lived most of his life in Medina, with The manuscript containing the Kitāb al Muʿaqqibīn is a unicum in the Daiber collection in Tokyo (MS. 127). The text was edited from photocopies provided by Kazuo Morimoto to the Marʿashi Library in Qom. No study of the text is known to me, the closest we have is an article by Lucia Veccia Vaglieri, in which she used the source to investigate Alid female names. It has, additionally, been used by Morimoto in his study on the development of Shi’i genealogy and by Bernheimer in her study of Alid genealogy. As summarised by Morimoto, al-ʿAqīqī was known – by the sixth/thirteenth century – as the first to write a genealogy of the Ṭālibid families, the now lost Kitāb Ansāb Āl ʿAbī Ṭālib, which was transmitted by his sons and used by al-Masʿūdī and al-Iṣfahānī in their Murūj al-Dhahāb and Kitāb al-Maqātil al-Ṭālibiyyīn respectively. The Muʿaqqibīn appears to be an abridged version of this, but a dedicated study is needed, which I am hoping to be able to conduct.
 
